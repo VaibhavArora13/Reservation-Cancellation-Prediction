@@ -5,6 +5,12 @@ Kaggle Competition - Playground Series - Season 3, Episode 7
 https://www.kaggle.com/competitions/playground-series-s3e7/overview/description
 
 
+## Rank : 58/680
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110373742/222751424-4253ccd4-fd52-4912-985d-5d22aabbea23.jpg" alt="animated" />
+</p>
+
 ## Reservation-Cancellation-Prediction
 
 Customer behavior and booking possibilities have been radically changed by online hotel reservation channels. Cancellations or no-shows cause a significant number of hotel reservations to be cancelled. Cancellations can be caused by a variety of factors, such as scheduling conflicts, changes in plans, etc. In many cases, this is made easier by the possibility of doing so free or at a low cost, which is beneficial for hotel guests but less desirable and possibly revenue-diminishing for hotels.
@@ -38,9 +44,4 @@ Dataset contains the different attributes of customer's reservation details. The
 ## Result
 I got 90.013% AUC score and scored 58 position in competition
 
-## Rank : 58/680
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/110373742/222751424-4253ccd4-fd52-4912-985d-5d22aabbea23.jpg" alt="animated" />
-</p>
 
